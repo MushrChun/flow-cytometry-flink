@@ -23,5 +23,5 @@ School Flink Cluster only.
 Three tasks complete in 2 min
 
 ## Related Assignment
-USYD 2017S1 COMP 5349 Assignment 1
+USYD 2017S1 COMP 5349 Assignment 2
 
